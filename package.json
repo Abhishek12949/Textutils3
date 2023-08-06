@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Abhishek12949.github.io/Textutils3",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Abhishek12949.github.io/Text",
   "dependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
